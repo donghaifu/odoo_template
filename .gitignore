@@ -1,0 +1,18 @@
+# dotfiles, with exceptions:
+.*
+!.gitignore
+!.mailmap
+# python compiled files
+*.py[co]
+*.py[cod]
+__pycache__/
+# vim,emacs backup files
+*~
+*.swp
+*.swo
+# not tracked subdirectories
+/env/
+/src/
+/filestore/
+/logs/
+/.idea/
