@@ -11,8 +11,8 @@ __pycache__/
 *.swp
 *.swo
 # not tracked subdirectories
-/env/
-/src/
-/filestore/
-/logs/
+#/env/
+#/src/
+#/filestore/
+#/logs/
 /.idea/
